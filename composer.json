@@ -1,6 +1,6 @@
 {
-  "name": "zgabievi/promocodes",
-  "description": "Promotional Codes Generator for Laravel 5",
+  "name": "yakidahan/promocodes",
+  "description": "Promotional Codes Generator for Laravel",
   "keywords": [
     "promo code",
     "coupon code",
@@ -8,19 +8,19 @@
     "laravel",
     "php"
   ],
-  "homepage": "https://github.com/zgabievi/promocodes",
+  "homepage": "https://github.com/yakidahan/promocodes",
   "license": "MIT",
   "type": "library",
   "authors": [
     {
-      "name": "Zura Gabievi",
-      "email": "zura.gabievi@gmail.com"
+      "name": "Yaakov Dahan",
+      "email": "yakidehan@gmail.com"
     }
   ],
   "require": {
-    "php": "^7.2||^8.0",
-    "doctrine/dbal": "^2.10||^3.0",
-    "laravel/framework": "~5.7||~5.8||~6.0||~7.0||~8.0"
+    "php": "^8.0",
+    "doctrine/dbal": "^2.10|^3.0",
+    "laravel/framework": "^9.0|^10.0"
   },
   "require-dev": {
     "orchestra/testbench": "~4.0",
